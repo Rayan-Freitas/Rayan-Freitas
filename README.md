@@ -1,6 +1,6 @@
 ## Olá Mundo! Me chamo Rayan Freitas
 
-- 😃 Tenho 17 anos
+- 😃 Tenho 18 anos
 - 🔭 Estudo e tenho experiência com Desenvolvimento Web
 - 🌱 Estudante de Desenvolvimento Mobile
 - 📫 Contatos: rayan.freiitas@gmail.com
