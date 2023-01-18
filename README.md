@@ -1,6 +1,6 @@
 ## Olá Mundo! Me chamo Rayan Freitas
 
-- 😃 Tenho 18 anos
+- 😃 Tenho 19 anos
 - 🔭 Estudo e tenho experiência com Desenvolvimento Mobile e Web
 - 📫 Contatos: rayan.freiitas@gmail.com
 - 💡 Tenho bom conhecimento em PHP, HTML, Python e Java, e conhecimento médio em C#, JS
