@@ -10,9 +10,9 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rayan-Freitas&layout=compact&langs_count=7&theme=blue-green"/>
 </div>
 <div style="display: inline_block"><br>
-  <img align="center"  height="65" width="65" src="https://www.svgrepo.com/show/349419/javascript.svg">
-  <img align="center"  height="58" width="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
   <img align="center"  height="65" width="65" src="https://www.svgrepo.com/show/353751/flutter.svg">
+  <img align="center"  height="58" width="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
+  <img align="center"  height="65" width="65" src="https://www.svgrepo.com/show/349419/javascript.svg">
 </div>
  <br>
 <div> 
