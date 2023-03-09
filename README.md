@@ -3,7 +3,7 @@
 - 😃 Tenho 19 anos
 - 🔭 Estudo e tenho experiência com Desenvolvimento Mobile e Web
 - 📫 Contatos: rayan.freiitas@gmail.com
-- 💡 Tenho bom conhecimento em PHP, HTML, Python e Java, e conhecimento médio em C#, JS
+- 💡 Tenho bom conhecimento em Dart(Flutter), Python e Javascript
 <div align="center">
   <a href="https://github.com/Rayan-Freitas">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rayan-Freitas&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true"/>
