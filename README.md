@@ -1,6 +1,6 @@
 ## Olá Mundo! Me chamo Rayan Freitas
 
-- 😃 Tenho 20 anos
+- 😃 Tenho 21 anos
 - 🔭 Estudo e tenho experiência com Desenvolvimento Mobile, Desktop e Web
 - 📫 Contatos: rayan.freiitas@gmail.com
 - 💡 Tenho bom conhecimento em Dart(Flutter), Python e Typescript
